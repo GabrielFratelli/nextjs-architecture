@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NextJs](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
+- [API](https://rickandmortyapi.com/documentation/#episode)
 
 ---
 
